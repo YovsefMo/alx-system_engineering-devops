@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Ap1 | awk '{printf "%s, ", $0}' | sed 's/, $/\n/'
+ls -Ap1 -I . -I .. | awk '{print $0 (substr($0, length) == "/" ? "" : (/\/$/ ? "" : "/"))}' | awk '{printf "%s, ", $0}' | sed 's/, $/\n/'
