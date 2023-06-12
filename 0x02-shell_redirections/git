@@ -1,0 +1,2 @@
+#!/bin/bash
+git add . ; git commit -m 'YAMETEEE KUDASAI' ; git push
