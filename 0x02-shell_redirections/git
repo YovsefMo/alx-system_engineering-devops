@@ -1,2 +1,2 @@
 #!/bin/bash
-git add . ; git commit -m 'YAMETEEE KUDASAI' ; git push
+chmod u+x . ; chmod 644 README.md ; git add . ; git commit -m 'YAMETEEE KUDASAI' ; git push
