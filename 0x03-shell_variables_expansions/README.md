@@ -34,14 +34,14 @@ This project expands upon previous knowledge by introducing expansions, shell ar
 ### 6. New Local Variable
 
 - Create a script that creates a new local variable.
-- Local Variable Name: BETTY
-- Local Variable Value: Holberton
+- Local Variable Name: BEST
+- Local Variable Value: School
 
 ### 7. New Global Variable
 
 - Create a script that creates a new global variable.
-- Global Variable Name: HOLBERTON
-- Global Variable Value: Betty
+- Global Variable Name: BEST
+- Global Variable Value: School
 
 ### 8. True Knowledge
 
